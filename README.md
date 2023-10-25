@@ -7,7 +7,7 @@ If you use this code, please cite our paper
 
  title            = {{LIVENet: A novel network for real-world low-light image denoising and enhancement}},
 	
- year             = "2023",
+ year             = "2024",
 	
  author           = "Dhruv Makwana and Gayatri Deshmukh and Onkar Susladkar and Sparsh Mittal and R Sai Chandra Teja",
 	
